@@ -2,6 +2,14 @@
 
 - an RPG engine
 
+## Installation
+
+The package is on PyPI: [moonscribe](https://pypi.org/project/moonscribe/)
+
+```
+pip install moonscribe
+```
+
 ### License
 
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
