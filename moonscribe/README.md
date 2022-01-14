@@ -10,7 +10,11 @@ The package is on PyPI: [moonscribe](https://pypi.org/project/moonscribe/)
 pip install moonscribe
 ```
 
-### License
+## Connected project
+
+Restful RPG is an API frontend for the Moonscribe engine. ([GitHub](https://github.com/sunarch/restful-rpg)) ([PyPI](https://pypi.org/project/restful-rpg/))
+
+## License
 
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
